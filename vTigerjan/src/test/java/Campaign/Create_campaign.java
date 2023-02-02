@@ -68,6 +68,7 @@ public class Create_campaign extends Base_class
 			   
 			   
 			   driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
+			   //pulled 
 			 
 	}
 
